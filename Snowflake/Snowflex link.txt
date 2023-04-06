@@ -1,0 +1,13 @@
+Login link:
+https://xarogmf-ai32433.snowflakecomputing.com/console/login
+https://do24450.ap-south-1.aws.snowflakecomputing.com/console#/internal/worksheet
+userid : shubhamsirsat
+password : Shubham@123
+
+
+############################################################################
+Important links:
+
+https://docs.snowflake.com/en/user-guide/intro-editions
+https://docs.snowflake.com/en/user-guide/security-access-control-overview
+https://www.snowflake.com/pricing/
